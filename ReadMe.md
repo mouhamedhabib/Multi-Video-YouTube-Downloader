@@ -1,4 +1,4 @@
-#  Multi-Video YouTube Downloader (H1)
+#  Multi-Video YouTube Downloader 
 
 This Python script allows you to download multiple videos from YouTube simultaneously using the yt_dlp library.
 
